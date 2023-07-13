@@ -1,0 +1,13 @@
+0.8614 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+5.2063 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fabfc82e6a0>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7faba82099d0>, multiSample=False, name='window1', numSamples=2, pos=(495, 343), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+5.2065 	EXP 	window1: mouseVisible = True
+5.2065 	EXP 	window1: mouseVisible = True
+5.2065 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+5.2065 	EXP 	window1: recordFrameIntervals = False
+5.3718 	EXP 	window1: recordFrameIntervals = True
+5.5551 	EXP 	Screen (0) actual frame rate measured at 59.81Hz
+5.5551 	EXP 	window1: recordFrameIntervals = False
+5.5859 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+7.2565 	EXP 	Created sequence: sequential, trialTypes=1, nReps=1, seed=None
+7.2567 	EXP 	New trial (rep=0, index=0): None
+7.2738 	EXP 	window1: mouseVisible = True
